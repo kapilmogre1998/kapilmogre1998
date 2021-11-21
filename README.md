@@ -1,14 +1,14 @@
 <a href="#"> <p  align="center"> <img  src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/98/000000/external-coding-education-prettycons-lineal-color-prettycons.png"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kapil </h1>
-<h3 align="center">I'm a Full Stack Web Developer.</h3>
+<h3 align="center">I am a Full Stack Web Developer. I like building new stuff and work with other people.</h3>
 
 
 ## 🙋‍♂️ About Me
 <!-- 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- 🌱 I’m currently learning **Data Structures and Algorithms,React**
+- 🌱 I’m currently learning **React,Data Structures and Algorithms**
 <!-- 
 - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kapilmogre1998@gmail.com**
 
-- ⚡ Fun fact **I like to watch comedy shows but I'm not funny**
+- ⚡ Fun fact **I like to watch comedy but I'm not funny**
 
 ## 🚀 Languages and Tools:
 
