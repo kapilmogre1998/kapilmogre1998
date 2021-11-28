@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kapilmogre1998@gmail.com**
 
-- ⚡ Fun fact **I like to watch comedy but I'm not funny**
+- ⚡ Fun fact **I like to play football but I don't watch much**
 
 ## 🚀 Languages and Tools:
 
