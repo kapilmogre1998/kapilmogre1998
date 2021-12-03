@@ -60,8 +60,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/kapil-mogre"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://kapilmogre1998@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "https://www.linkedin.com/in/kapil-mogre" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://kapilmogre1998@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 </p>
 
 <!-- ## ❤ Views and Followers
